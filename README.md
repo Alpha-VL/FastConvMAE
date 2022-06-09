@@ -12,7 +12,7 @@ This repo is the faster implementation of [ConvMAE: Masked Convolution Meets Mas
 ## Updates
 ***15/June/2022***
 
-Released the pre-training codes for ImageNet-1K.
+To release the pre-training codes for ImageNet-1K.
 
 ## Introduction
 Fast ConvMAE framework is a superiorly fast masked modeling scheme via complementary masking and mixture of reconstrunctors based on the ConvMAE. 
