@@ -5,8 +5,7 @@
 
 </div>
 
-This repo is the faster implementation of [ConvMAE: Masked Convolution Meets Masked Autoencoders](https://arxiv.org/abs/2205.03892). It currently concludes codes and models for the following tasks:
-> **ImageNet Pretrain**: See [PRETRAIN.md](PRETRAIN.md).
+This repo is the faster implementation of [ConvMAE: Masked Convolution Meets Masked Autoencoders](https://arxiv.org/abs/2205.03892).
 
 
 ## Updates
