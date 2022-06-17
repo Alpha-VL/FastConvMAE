@@ -5,8 +5,7 @@
 
 </div>
 
-This repo is the faster implementation of [ConvMAE: Masked Convolution Meets Masked Autoencoders](https://arxiv.org/abs/2205.03892).
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Alpha-VL/FastConvMAE)
+This repo is the faster implementation of [ConvMAE: Masked Convolution Meets Masked Autoencoders](https://arxiv.org/abs/2205.03892)
 
 
 ## Updates
@@ -62,4 +61,7 @@ The pretraining and finetuning of our project are based on [DeiT](https://github
 
 ## License
 FastConvMAE is released under the [MIT License](https://github.com/Alpha-VL/ConvMAE/blob/main/LICENSE).
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Alpha-VL/FastConvMAE)
 
