@@ -6,7 +6,7 @@
 </div>
 
 This repo is the faster implementation of [ConvMAE: Masked Convolution Meets Masked Autoencoders](https://arxiv.org/abs/2205.03892).
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Alpha-VL/FastConvMAE)
 
 
 ## Updates
