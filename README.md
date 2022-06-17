@@ -17,6 +17,7 @@ Released the pre-training codes for ImageNet-1K.
 ## Introduction
 Fast ConvMAE framework is a superiorly fast masked modeling scheme via complementary masking and mixture of reconstrunctors based on the ConvMAE. 
 
+![tenser](figures/FastConvMAE.png)
 
 ## Pretrain on ImageNet-1K
 The following table provides pretrained checkpoints and logs used in the paper.
